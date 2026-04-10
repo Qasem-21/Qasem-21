@@ -1,4 +1,4 @@
-<div align="center">Hi 👋 I'm Qasim Mohammadi
+<div align="center">Hi 👋 I'm Qasem Mohammadi
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Next.js+%7C+NestJS;AI+%7C+Cloud+Enthusiast;Building+Real+World+Projects" /></div>---
 
