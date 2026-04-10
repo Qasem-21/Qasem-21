@@ -5,7 +5,7 @@
 🚀 About Me
 
 💻 Full Stack Developer<br/>
-⚛️ React & Next.js Developer<br/>
+⚛️ React, Next.js, Express.js & Nest Developer<br/>
 🚀 Passionate about AI & Cloud<br/>
 🔥 Building Real World Projects<br/>
 🎯 Focused on Clean & Scalable Code
@@ -17,7 +17,6 @@
 - AI Automation
 - Cloud Computing
 - System Design
-- Microservices Architecture
 
 ---
 
