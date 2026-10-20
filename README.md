@@ -15,10 +15,10 @@
 <a href="https://github.com/Qasem-21">
   <img src="https://img.shields.io/badge/GitHub-Qasem--21-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:qasimmohammadi520.email@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://af.linkedin.com/in/qasem-mohammadi-236a0836b">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
